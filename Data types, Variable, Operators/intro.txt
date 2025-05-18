@@ -1,0 +1,13 @@
+1000 problem
+//echo "# Job" >> README.md
+//git init
+//git add README.md
+//git commit -m "first commit"
+//git branch -M main
+//git remote add origin https://github.com/kmshawon/Job.git
+//git push -u origin main
+
+
+git remote add origin https://github.com/kmshawon/Job.git
+git branch -M main
+git push -u origin main
